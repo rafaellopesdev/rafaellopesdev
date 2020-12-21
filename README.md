@@ -1,7 +1,7 @@
 # Olá! 👋
 My name is Rafael Lopes 😎
 
-I am 18 years old, I am always looking for new knowledge and experiences. I'm starting to contribute my projects to the community of developers and companies. ![Ícone "Verificada pela comunidade"](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAA/0lEQVR4AYXNMSiEcRyA4cfmGHQbCZIipkuxnJgMStlMNmeyD2dwmc8+sZgxYJd9ErIZFHUyYYD7fkr6l4/rnvmtl7+KitrqV/fq2Y5eLY3Z9S48eRLe7BmVZ9qhTLhQ0algzZWQOVKSsCF8OjAnwbxDTWFDUhPK/jMr1H6HE/IqRky2DyvCefuwItwZzodVoYRiLqMkVCXrwpJ9twZ+sgfDYEFYl8wIWxZ9uFf7zkallxlJh4YrLGsKjZRx7VGHhLqwgFUN45DGdb8MeXGpgB4ABZdeDcpZEY51A+hyLKz4S1W4MQWm3AibWtgWmk6dyISa1pSdyWTOlLXVp0+eL9D/ZPfBTNanAAAAAElFTkSuQmCC)
+I am 18 years old, I am always looking for new knowledge and experiences. I'm starting to contribute my projects to the community of developers and companies. 👩‍🚀🚀
 
 ## 👨‍🚀Faça da sua vida mais responsivo🌍 
 • 🚩From Mg living in Almenara
