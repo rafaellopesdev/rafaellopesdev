@@ -1,12 +1,12 @@
-# Olá! 👋
+# Hello! 👋
 My name is Rafael Lopes 😎
 
 I am 18 years old, I am always looking for new knowledge and experiences. I'm starting to contribute my projects to the community of developers and companies. 👩‍🚀🚀
 
-## 👨‍🚀Faça da sua vida mais responsivo🌍 
+## 👨‍🚀Make your life more responsive🌍 
 • 🚩From Mg living in Almenara
 
-• 👨‍💻Front-end and Back-end at [Propague Publicidade](https://www.instagram.com/propaguealmenara/)
+• 👨‍💻Full-Stack at [KaBuM!]("")
 
 • 👑Ceo and CTO on [Comeet Space](https://www.linkedin.com/company/comeet-empresas)
 
