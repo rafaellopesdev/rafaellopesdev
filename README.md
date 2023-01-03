@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Olá! Sou desenvolvedor de Software Full-Stack. Iniciei minha carreira em meados de 2018 com a linguagem Java onde me interessei bastante pela profissão, de acordo com esses anos fui me aprimorando e entrando mais profundo no universo da programação onde conheci linguagens e tecnologias que utilizo no dia a dia como Flutter, JavaScript, TypeScript, Php, NodeJS, React, NestJS e algumas solução de infraestrutura como AWS, Google Cloud, Docker entre outros. Me dedico dia a pós dia para encarar novos desafios e aprimorar meus conhecimentos através de estudos e networking. 👩‍🚀🚀
+Sou desenvolvedor de Software Full-Stack. Iniciei minha carreira em meados de 2018 com a linguagem Java onde me interessei bastante pela profissão, de acordo com esses anos fui me aprimorando e entrando mais profundo no universo da programação onde conheci linguagens e tecnologias que utilizo no dia a dia como Flutter, JavaScript, TypeScript, Php, NodeJS, React, NestJS e algumas solução de infraestrutura como AWS, Google Cloud, Docker entre outros. Me dedico dia a pós dia para encarar novos desafios e aprimorar meus conhecimentos através de estudos e networking. 👩‍🚀🚀
 
 ## 👨‍🚀Make your life more responsive🌍 
 • 🚩From Mg living in Almenara
