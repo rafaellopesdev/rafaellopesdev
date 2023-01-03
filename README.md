@@ -6,6 +6,7 @@ Olá! Sou desenvolvedor de Software Full-Stack. Iniciei minha carreira em meados
 • 🚩From Mg living in Almenara
 
 • 👨‍💻Full-Stack at [KaBuM!]("https://www.linkedin.com/company/kabum/mycompany/verification/")
+• 👨‍💻Founder at [MeLevaLi]("https://www.linkedin.com/company/melevali")
 
 
 
